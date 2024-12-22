@@ -1,6 +1,5 @@
 ### About me
 - 👋 Hi, I’m @Abytherus
-- 👀 I’m interested in Game Development
 - 🌱 I’m currently learning JavaScript
 
 <!---
